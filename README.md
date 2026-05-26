@@ -22,4 +22,4 @@ Dashboard ini bertujuan untuk:
 ### 1. Clone Repository
 
 ```bash
-git clone <link-repository-kamu>
+(https://github.com/RevaAvril32/CapstoneProject.git)
