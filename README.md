@@ -15,11 +15,3 @@ Dashboard ini bertujuan untuk:
 - Membantu mengecek kualitas data melalui missing value, duplicate data, dan outlier
 - Memberikan insight otomatis mengenai kondisi dataset sebelum digunakan untuk pengembangan model AI
 
----
-
-## Setup Environment
-
-### 1. Clone Repository
-
-```bash
-https://github.com/RevaAvril32/CapstoneProject.git
