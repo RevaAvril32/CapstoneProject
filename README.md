@@ -1,7 +1,7 @@
 # CapstoneProject
 # 🧠 MindMate AI Dashboard
 
-Dashboard interaktif untuk menganalisis dataset **MindMate AI**, yaitu project chatbot berbasis AI yang berfokus pada pemahaman input pengguna, kategori intent/emotion, kualitas data, serta insight awal sebelum dataset digunakan untuk pengembangan model.
+Dashboard interaktif untuk menganalisis dataset **MindMate AI**.
 
 ---
 
@@ -9,11 +9,11 @@ Dashboard interaktif untuk menganalisis dataset **MindMate AI**, yaitu project c
 
 Dashboard ini bertujuan untuk:
 
-- Menganalisis distribusi intent/emotion pada dataset MindMate AI
-- Mengidentifikasi kualitas data seperti missing value, duplicate data, dan outlier
-- Menampilkan pola panjang teks input dan response
-- Menyediakan visualisasi interaktif menggunakan Streamlit
-- Membantu memahami kesiapan dataset sebelum digunakan untuk training model AI
+- Menyajikan hasil analisis dataset MindMate AI secara interaktif dan mudah dipahami
+- Menampilkan ringkasan data seperti total data, jumlah intent/emotion, dan panjang teks
+- Memvisualisasikan distribusi intent/emotion, pola panjang input, response, serta word cloud
+- Membantu mengecek kualitas data melalui missing value, duplicate data, dan outlier
+- Memberikan insight otomatis mengenai kondisi dataset sebelum digunakan untuk pengembangan model AI
 
 ---
 
@@ -22,4 +22,4 @@ Dashboard ini bertujuan untuk:
 ### 1. Clone Repository
 
 ```bash
-(https://github.com/RevaAvril32/CapstoneProject.git)
+https://github.com/RevaAvril32/CapstoneProject.git
